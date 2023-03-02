@@ -1,0 +1,31 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Pacifico', cursive;
+
+}
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.295);
+}
+.span-html{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+.span-css{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+.span-git{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
